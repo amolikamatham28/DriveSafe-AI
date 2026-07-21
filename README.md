@@ -199,6 +199,7 @@ During execution, the system continuously displays:
 - Integrating multiple Computer Vision modules into a single monitoring system
   
   📌 Project Status
+  
 ✅ Real-time Driver Monitoring
 ✅ Eye Closure Detection
 ✅ Yawn Detection
@@ -209,6 +210,7 @@ During execution, the system continuously displays:
 ✅ Interactive Streamlit Dashboard
 
  👥 Contributors
+ 
 This project was collaboratively developed by:
 
 Yarlagadda Mahathi
@@ -217,6 +219,7 @@ Matham Amolika
 All contributors participated in the design, implementation, testing, and integration of the system.
 
 🚀 Future Enhancements
+
 Mobile application support
 Cloud-based analytics dashboard
 Driver identity recognition
