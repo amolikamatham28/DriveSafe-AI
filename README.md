@@ -199,8 +199,10 @@ During execution, the system continuously displays:
 - Integrating multiple Computer Vision modules into a single monitoring system
   
   📌 Project Status
+   - 
   
 ✅ Real-time Driver Monitoring
+
 ✅ Eye Closure Detection
 ✅ Yawn Detection
 ✅ Head Pose Estimation
