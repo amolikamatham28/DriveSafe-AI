@@ -198,35 +198,35 @@ During execution, the system continuously displays:
 - Balancing detection accuracy with real-time performance
 - Integrating multiple Computer Vision modules into a single monitoring system
   
-  📌 Project Status
-   - 
-  
-✅ Real-time Driver Monitoring
+## 📌 Project Status
 
-✅ Eye Closure Detection
-✅ Yawn Detection
-✅ Head Pose Estimation
-✅ Driver Risk Assessment
-✅ Visual & Audio Alert System
-✅ Session Logging with SQLite
-✅ Interactive Streamlit Dashboard
+- ✅ Real-time Driver Monitoring
+- ✅ Eye Closure Detection
+- ✅ Yawn Detection
+- ✅ Head Pose Estimation
+- ✅ Driver Risk Assessment
+- ✅ Visual & Audio Alert System
+- ✅ Session Logging with SQLite
+- ✅ Interactive Streamlit Dashboard
 
- 👥 Contributors
- 
+ ## 👥 Contributors
+
 This project was collaboratively developed by:
 
-Yarlagadda Mahathi
-Paridhi Prasanna
-Matham Amolika
+- Yarlagadda Mahathi
+- Paridhi Prasanna
+- Matham Amolika
+
 All contributors participated in the design, implementation, testing, and integration of the system.
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-Mobile application support
-Cloud-based analytics dashboard
-Driver identity recognition
-Night-time driving optimization
-GPS integration
-Emergency contact notifications
-Deep learning-based fatigue prediction
-Multi-driver session management
+- Mobile application support
+- Cloud-based analytics dashboard
+- Driver identity recognition
+- Night-time driving optimization
+- GPS integration
+- Emergency contact notifications
+- Deep learning-based fatigue prediction
+- Multi-driver session management
+
